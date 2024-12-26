@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Krishanu Mandal</h1>
-<h3 align="center">A passionate Developer from India </h3>
+<h3 align="center">A passionate Software Developer from India🇮🇳</h3>
 <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="development" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanuonline&label=Profile%20views&color=0e75b6&style=flat" alt="krishanuonline" /> </p>
