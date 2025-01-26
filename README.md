@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanuonline&label=Profile%20views&color=0e75b6&style=flat" alt="krishanuonline" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Cloud Computing, Kubernetes**
+- 🌱 I’m currently navigating the realm of **Software Development**, creating innovative solutions to simplify and enhance everyday experiences.
 
 - 👨‍💻 All of my projects are available at [https://krishanuonline.github.io/](https://krishanuonline.github.io/)
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **krishanu178@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ID169sMct4cp-Vsspoa0TFMZCVva8pBw/view?usp=sharing](https://drive.google.com/file/d/1ID169sMct4cp-Vsspoa0TFMZCVva8pBw/view?usp=sharing)
 
 - ⚡ Fun fact **Stay at 127.0.0.1 | Wear a 255.255.255.0**
 
