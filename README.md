@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanuonline&label=Profile%20views&color=0e75b6&style=flat" alt="krishanuonline" /> </p>
 
-- 🌱 I’m currently navigating the realm of **Software Development**, creating innovative solutions to simplify and enhance everyday experiences.
+- 🌱 I’m currently navigating the realm of **Software Engineering**, creating innovative solutions to simplify and enhance everyday experiences.
 
 - 👨‍💻 All of my projects are available at [https://krishanuonline.github.io/](https://krishanuonline.github.io/)
 
