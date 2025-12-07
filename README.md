@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishanu%20Mandal&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Innovator%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=25" alt="Krishanu Mandal Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Full+Stack+Developer+%F0%9F%87%AE%F0%9F%87%B3;Java+%7C+Software Engineer+%7C+React & Next.js Ecosystem+%7C+Node.js, PHP, Postgres & MySQL%7C+Cloud (Docker, Kubernetes)%7C+Product Centric Engineering%7C+Building ‘Code And Creatives’" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Full+Stack+Developer+%F0%9F%87%AE%F0%9F%87%B3;Java+%7C+React+%26+Next.js+Ecosystem;Node.js%2C+PHP%2C+Postgres+%26+MySQL;Cloud+(Docker+%26+Kubernetes);Product+Centric+Engineering;Building+%27Code+And+Creatives%27" alt="Typing SVG" />
+</a>
 </div>
 
 <div align="center">
