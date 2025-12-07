@@ -21,9 +21,9 @@
   I’m a passionate Software Developer from India 🇮🇳 navigating the realm of Software Engineering. I love creating innovative solutions to simplify and enhance everyday experiences.
 </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development & Cloud Computing**.
+- 🔭 I’m currently working as **Full Stack Developer**.
 - 👨‍💻 Check out my portfolio: [krishanuonline.github.io](https://krishanuonline.github.io/)
-- 💬 Ask me about **Java, ReactJS, NextJS, NodeJS, MySQL, & System Design**.
+- 💬 Ask me about **ReactJS, NextJS, NodeJS, Java, MySQL, PostgreSQL & System Design**.
 - ⚡ Fun fact: **"There's no place like 127.0.0.1"** 🏠
 
 ---
