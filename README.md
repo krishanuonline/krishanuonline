@@ -8,8 +8,8 @@
 
 <div align="center">
   <h3>Connect with me:</h3> 
-  <a href="https://linkedin.com/in/krishanu-mandal-410322200" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="https://instagram.com/krishanu178" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
+  <a href="https://linkedin.com/in/krishanumandal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://instagram.com/krishanu_on_the_go" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   <a href="mailto:krishanu178@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
 
@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development & Cloud Computing**.
 - 👨‍💻 Check out my portfolio: [krishanuonline.github.io](https://krishanuonline.github.io/)
-- 💬 Ask me about **Java, ReactJS, NodeJS, MySQL, & System Design**.
+- 💬 Ask me about **Java, ReactJS, NextJS, NodeJS, MySQL, & System Design**.
 - ⚡ Fun fact: **"There's no place like 127.0.0.1"** 🏠
 
 ---
