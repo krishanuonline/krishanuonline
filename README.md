@@ -22,7 +22,7 @@
 </p>
 
 - 🔭 I’m currently working as **Full Stack Developer**.
-- 👨‍💻 Check out my portfolio: [krishanuonline.github.io](https://krishanuonline.github.io/)
+- 👨‍💻 Check out my portfolio: [Krishanu Mandal](https://krishanu.codeandcreatives.com/)
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Java, MySQL, PostgreSQL & System Design**.
 - ⚡ Fun fact: **"There's no place like 127.0.0.1"** 🏠
 
